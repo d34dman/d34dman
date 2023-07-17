@@ -3,7 +3,8 @@
 ![D34dman's GitHub stats](https://github-readme-stats.vercel.app/api?username=d34dman&show_icons=true&count_private=true)
 ![Top Lang's](https://github-readme-stats.vercel.app/api/top-langs/?username=d34dman&layout=compact)
 
-- 🔭 I’m currently working on [Drupal JavaScript SDK](https://github.com/d34dman/drupal-js-sdk)
+- 🔭 I’m currently working on Design Systems, Component Library, and CMS Integration
+- 👯 I’m looking to collaborate on [Drupal API Client](https://www.drupal.org/project/api_client)
 - 🌱 I’m currently learning Svelte
 
 <!--
