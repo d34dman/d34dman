@@ -1,6 +1,6 @@
 ### Hi there 👻
 
-- 🔭 I’m currently working on FlowDrop, Design Systems, Component Library, and CMS Integration
+- 🔭 I’m currently working on [FlowDrop](https://github.com/flowdrop-io/flowdrop) and [Atelier CMS](https://github.com/aincient-labs/atelier-cms)
 - 🌱 I’m currently playing with Svelte and SvelteKit
   
 [![Github-sponsors](https://img.shields.io/badge/sponsor-%2330363D.svg?style=for-the-badge&logo=GitHub-Sponsors&logoColor=#EA4AAA)](https://github.com/sponsors/d34dman)
