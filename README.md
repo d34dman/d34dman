@@ -3,6 +3,8 @@
 - 🔭 I’m currently working on FlowDrop, Design Systems, Component Library, and CMS Integration
 - 🌱 I’m currently playing with Svelte and SvelteKit
   
+[![Github-sponsors](https://img.shields.io/badge/sponsor-%2330363D.svg?style=for-the-badge&logo=GitHub-Sponsors&logoColor=#EA4AAA)](https://github.com/sponsors/d34dman)
+
 
 <!--
 **d34dman/d34dman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
