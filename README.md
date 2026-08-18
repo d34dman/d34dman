@@ -1,8 +1,5 @@
 ### Hi there 👻
 
-![D34dman's GitHub stats](https://github-readme-stats.vercel.app/api?username=d34dman&show_icons=true&count_private=true)
-![Top Lang's](https://github-readme-stats.vercel.app/api/top-langs/?username=d34dman&layout=compact)
-
 - 🔭 I’m currently working on FlowDrop, Design Systems, Component Library, and CMS Integration
 - 🌱 I’m currently playing with Svelte and SvelteKit
   
