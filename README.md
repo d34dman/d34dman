@@ -5,7 +5,7 @@
 
 **Fuelled by evenings (and coffee)**
 
-Atelier, FlowDrop and the Drupal work are open source, self-hosted and free — no ads or trackers here either. If any of it made your day easier, you can help keep it that way.
+Atelier, FlowDrop and the Drupal work are open source, self-hosted and free. If any of it made your day easier, you can help keep it that way.
 
 [![Github-sponsors](https://img.shields.io/badge/sponsor-%2330363D.svg?style=for-the-badge&logo=GitHub-Sponsors&logoColor=#EA4AAA)](https://github.com/sponsors/d34dman)
 [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-%23ffdd00.svg?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/d34dman)
